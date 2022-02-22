@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a late pamphlet, called An essay concerning critical and curious learning, in which are contained some short reflections on the controversie betwixt Sir William Temple and Mr. Wotton, and that betwixt Dr. Bentley and Mr. Boyle</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25516</idno>
+            <idno type="STC">Wing A3306</idno>
+            <idno type="STC">ESTC R13099</idno>
+            <idno type="EEBO-CITATION">12934460</idno>
+            <idno type="OCLC">ocm 12934460</idno>
+            <idno type="VID">95739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 730:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a late pamphlet, called An essay concerning critical and curious learning, in which are contained some short reflections on the controversie betwixt Sir William Temple and Mr. Wotton, and that betwixt Dr. Bentley and Mr. Boyle</title>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rymer, Thomas, 1641-1713. --  Essay concerning critical and curious learning.</term>
+               <term>Temple, William, --  Sir, 1555-1627.</term>
+               <term>Wotton, William, 1666-1727.</term>
+               <term>Bentley, Richard, 1662-1742.</term>
+               <term>Orrery, Charles Boyle, --  Earl of, 1676-1731.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95739:1"/>
+            <pb facs="tcp:95739:1"/>
+            <p>AN ANSWER TO A Late PAMPHLET, CALLED <hi>An Eſſay concerning Criti<g ref="char:EOLhyphen"/>cal and Curious Learning;</hi> In which are contained Some ſhort Reflections on the Controverſie</p>
+            <p>Betwixt Sir <hi>William Temple,</hi> and Mr. <hi>Wotton.</hi>
+            </p>
+            <p>AND THAT</p>
+            <p>Betwixt Dr. <hi>Bentley,</hi> and Mr. <hi>Boyle.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed and Sold by <hi>E. Whit<g ref="char:EOLhyphen"/>lock,</hi> near <hi>Stationers-Hall,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95739:2"/>
+            <pb n="1" facs="tcp:95739:2"/>
+            <head>AN ANSWER TO A Late PAMPHLET, CALLED, <hi>An Eſſay concerning Critical and Curious Learning,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Thank you for the Pam<g ref="char:EOLhyphen"/>phlet you ſent me the o<g ref="char:EOLhyphen"/>ther Day; and, becauſe you was pleas'd to make it the <hi>Condition</hi> of your <hi>Gift,</hi> that I
+<pb n="2" facs="tcp:95739:3"/>ſhould return my Thoughts upon it, I have here ſent them by the firſt Poſt, and I be<g ref="char:EOLhyphen"/>lieve much ſooner than you expected. You have them in the very Order they at firſt oc<g ref="char:EOLhyphen"/>curred to me, without any manner of Correction; for truly I did not think it worth my while to make any.</p>
+            <p>Firſt then, It is obvious to remark, that the Author, who<g ref="char:EOLhyphen"/>ever he is, has given his <hi>Eſſay</hi> a wrong Title. If he had had a mind to deal honeſtly with his Reader, it ſhould have run thus: <hi>An Eſſay,</hi> &amp;c. <hi>in which are contained ſeveral Falſe and Scandalous Reflections on</hi> Chriſt-Church <hi>in</hi> Oxon. But to turn over the Title Page. In his Preamble (where, I aſ<g ref="char:EOLhyphen"/>ſure you, he pretends abun<g ref="char:EOLhyphen"/>dance
+<pb n="3" facs="tcp:95739:3"/>of Modeſty) he cannot forbear making open Procla<g ref="char:EOLhyphen"/>mation, that he, and his Friend, to whom he addreſſes this Piece, have reſolv'd to cenſure and damn all Books that ſhall be hereafter pub<g ref="char:EOLhyphen"/>liſhed; to which purpoſe they have eſtabliſhed a Critical <hi>Cor<g ref="char:EOLhyphen"/>reſpondence between them.</hi> Wo be to all poor Writers for the Fu<g ref="char:EOLhyphen"/>ture! But he has given the World no reaſon to hope well of this grand Deſign. For in the preſent Caſe (which it ſeems is the firſt he has med<g ref="char:EOLhyphen"/>dled in) he is far from being ſo fair and equitable a Modera<g ref="char:EOLhyphen"/>tor as he ought, or indeed as he himſelf would pretend to be. For he has every where ſhewed that <hi>Dogmatical Humour and Arro<g ref="char:EOLhyphen"/>gance</hi> he blames in others, and
+<pb n="4" facs="tcp:95739:4"/>has taken a moſt intolerable Freedom where he ought not to have done it. I have but two Reaſons to think that Dr. <hi>Bentley</hi> himſelf did not write this Treatiſe. One is, that the Matter is infinitely too polite, and the Stile too ſmooth and flowing for him: The other, that I hardly believe his Self-Love and Pride would have ſuffer'd him to have dealt ſo freely and juſtly with his own and his <hi>Friend</hi>'s Character, tho' it was the moſt likely way to do him a real Service at the bottom. For theſe Reaſons I muſt acquit the <hi>Doctor,</hi> and tell you, that I rather believe the Author to be an <hi>Eſquire,</hi> as he calls himſelf, and one of thoſe mighty <hi>Wits</hi> amongſt you in Town, that ſet up for the
+<pb n="5" facs="tcp:95739:4"/>Overthrow of Religion; who, the better to gain their Ends, lay hold on all Occaſions of traducing the Univerſities, and undermining the Dignity and Character of the Clergy. And tho' I have ſaid this of him, yet it is no wonder that he is Dr. <hi>Bentley</hi>'s Friend and Acquain<g ref="char:EOLhyphen"/>tance.</p>
+            <p>But I would gladly know what there is in this Piece, that ſhould make it gain ſo mighty a Reputation, as you ſay it has; and, particularly, how it comes to deſerve your Eſteem, notwithſtanding the Averſion you are pleas'd to ſay you have to the <hi>Satyrical Stuff</hi> in it. It is indeed called (I ſhould ſay miſcalled) <hi>An Eſſay concerning Critical and Curious Learning;</hi> which, I muſt own, is a very
+<pb n="6" facs="tcp:95739:5"/>promiſing Title, and one might reaſonably expect ſomething new and delicate upon ſo nice an Argument. It came to my Hands with an extraordinary Advantage, in that it had your Recommendation. I durſt not, upon the firſt Reading, paſs any Cenſure upon it. I ſuſ<g ref="char:EOLhyphen"/>pended my Judgment, and read it over again and again; but I lik'd it worſe every time I did ſo. I cannot indeed but acknow<g ref="char:EOLhyphen"/>ledge I had ſome Reaſon to be biaſs'd, when I found the Worthy and Reverend <hi>Dean of Christ-Church</hi> ſo undecently treated, and the Reputation of his whole Society arraign'd in a moſt imperious and inſo<g ref="char:EOLhyphen"/>lent manner.</p>
+            <pb n="7" facs="tcp:95739:5"/>
+            <p>The ſerious part of this Piece is nothing but a <hi>Farrago</hi> of common Notions, put indeed into tolerable good Language. But the Author talks ſo very abruptly, and has ſo cramp'd himſelf upon every Head, that what he ſays of his Performance in Jeſt, may very well be ap<g ref="char:EOLhyphen"/>ply'd to it in good earneſt; <hi>viz. that by endeavouring to ſay a great deal in ſo narrow a compaſs, and ſhort a time, he has ſcarce ſaid any thing.</hi> But why did not our <hi>Eſſayer</hi> take a wider compaſs and a longer time for this mighty Undertaking of his? What Provocation had he to ſpeak to any Subject, unleſs he would have done it to pur<g ref="char:EOLhyphen"/>poſe? Was it a Task impoſed upon him, which he was wil<g ref="char:EOLhyphen"/>ling
+<pb n="8" facs="tcp:95739:6"/>to get off his Hands as ſoon as he could; and was he at the ſame time obliged to print it? When he delivers his own Opinion, and gives the finiſh<g ref="char:EOLhyphen"/>ing Turn to any Argument, he does it in as poſitive, deciſive a manner, as if Dr. <hi>Bentley</hi> him<g ref="char:EOLhyphen"/>ſelf had done it. He bears down all before him; and, when he is going to prove ſome ordinary known thing, puts himſelf into as great a Sweat and Tumult, as if he was a<g ref="char:EOLhyphen"/>bout ſome of the knottieſt Pro<g ref="char:EOLhyphen"/>blems in all <hi>Mathematicks,</hi> and was doing no leſs than <hi>ſqua<g ref="char:EOLhyphen"/>ring the Circle.</hi> To make a Shew of much Learning (a Qualification not very common amongſt the <hi>Wits</hi>) he runs through all the <hi>Sciences,</hi> but
+<pb n="9" facs="tcp:95739:6"/>after a very odd manner. For when the Reader expects ſome handſome Account of them, he baulks him with lame and im<g ref="char:EOLhyphen"/>perfect Definitions. He pre<g ref="char:EOLhyphen"/>tends to have preſſed his Mat<g ref="char:EOLhyphen"/>ter very cloſe; but it is ſtill ſo ſpungy, that it may be ſqueezed much cloſer, and fairly reduc'd into nothing. I have often heard honeſt <hi>Will P</hi>— talk as roundly over a Glaſs of Wine of all kinds of Learning and Languages, as our Author, without ever ſuſpecting him to have any clear or full Notions of what he was about. There is a ſort of Common-place, which any Man, that keeps good Company, may be eaſi<g ref="char:EOLhyphen"/>ly furniſhed with, and yet at the ſame time be no more a
+<pb n="10" facs="tcp:95739:7"/>Scholar, than the Pope's Par<g ref="char:EOLhyphen"/>rot, that could repeat the Creed, by keeping much Company with his Holineſs, was a Chri<g ref="char:EOLhyphen"/>ſtian.</p>
+            <p>In ſhort, he is ſometimes a proud ſupercilious Critick, ſome<g ref="char:EOLhyphen"/>times a dry and ſtarched Com<g ref="char:EOLhyphen"/>mon-placer, and always im<g ref="char:EOLhyphen"/>pertinent to his Reader, and inconſiſtent with himſelf. If it was worth while, I would undertake to refute every thing material out of the Eſſay it ſelf. One Sentence contradicts another. He is not of the ſame Opinion two Leaves toge<g ref="char:EOLhyphen"/>ther. Here you have him cry<g ref="char:EOLhyphen"/>ing up <hi>experimental Philoſophy,</hi> but with abundance of Limi<g ref="char:EOLhyphen"/>tation, as the moſt pleaſant Study in the World, and which
+<pb n="11" facs="tcp:95739:7"/>a Man ought to ſpend all his Time in. — Preſently he for<g ref="char:EOLhyphen"/>gets this, and talks as loudly for all the other Sciences one after another; only <hi>Mathema<g ref="char:EOLhyphen"/>ticks</hi> and <hi>Metaphyſicks</hi> have the hard hap not to be of the num<g ref="char:EOLhyphen"/>ber of his Favourites, when he comes to talk of his beloved Argument, of <hi>Critical Learning in the Modern Acception, as it is taken for a thorough underſtanding of Claſſick Authors, and an exact knowledge of all thoſe Rules, by which Men judge and determine nicely of all the finer Parts and Branches of Humane Literature;</hi> he diſplays all his Force, and is moſt wonderfully inſtructive. He informs his Reader, that <hi>Aristotle</hi> was the firſt that drew up theſe Rules into compaſs,
+<pb n="12" facs="tcp:95739:8"/>made Criticiſm an Art; That <hi>Horace, Longinus,</hi> and all the Criticks, both Ancient and Modern, drained moſt of their Knowledge from him. This is juſt as much, and no more, than has been ſaid an hundred times in Dedications and Pre<g ref="char:EOLhyphen"/>faces to Plays. Not only Mr. <hi>Congreve, Dennis, &amp;c.</hi> but even <hi>Settle</hi> and <hi>D'urfey</hi> have often ſaid it before him; and moſt of them in their preſent Controverſie with Mr. <hi>Collier,</hi> make nothing of talking of <hi>A<g ref="char:EOLhyphen"/>riſtotle,</hi> as familiarly as this Gentleman, without ever ha<g ref="char:EOLhyphen"/>ving read one Word of him. But he goes on victoriouſly, and ſays <hi>Criticiſm</hi> is without all doubt a very good thing, notwithſtanding what ſome
+<pb n="13" facs="tcp:95739:8"/>People ſay of it: And hath a pretty Similitude about <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> and <hi>Caeſar</hi> nothing to the purpoſe, from whence howe<g ref="char:EOLhyphen"/>ver he inferrs, as faſt as Hops, the great Advantage of Criti<g ref="char:EOLhyphen"/>cal Knowledge. Such Dedu<g ref="char:EOLhyphen"/>ctions are of the ſame Stamp with his Friend's Dr. <hi>Bentley</hi>'s. But I am ſure I argue more logically, when I ſay that be<g ref="char:EOLhyphen"/>cauſe Dr. <hi>Bentley</hi> writes falſe Latin and falſe Engliſh, that therefore, by way of contra<g ref="char:EOLhyphen"/>ry he is in the right of it; for a good Cauſe may be, and of<g ref="char:EOLhyphen"/>ten is, ill defended. After ha<g ref="char:EOLhyphen"/>ving muſter'd up all this, he leaves his Argument for a while, and makes a digreſſion <hi>upon the Uſe of Frequent Compoſi<g ref="char:EOLhyphen"/>tions.</hi> Here he crowds his fine
+<pb n="14" facs="tcp:95739:9"/>Notions very thick upon us; and, to ſingle out one from a<g ref="char:EOLhyphen"/>mongſt many, he tells us, that <hi>all the Faculties of the Mind, whether Active or Paſsive, are mightily heightened and improved by Exer<g ref="char:EOLhyphen"/>ciſe.</hi> This Propoſition is cer<g ref="char:EOLhyphen"/>tainly true; and ſo it will hold, if I ſhould affirm it of the Fa<g ref="char:EOLhyphen"/>culties of the Body, and illu<g ref="char:EOLhyphen"/>ſtrate my Poſition with the Fa<g ref="char:EOLhyphen"/>mous Story of <hi>Milo,</hi> who firſt try'd his Strength in carrying a <hi>Calf,</hi> and by conſtant Applica<g ref="char:EOLhyphen"/>tion was at laſt able to do as much for an <hi>Ox.</hi> But who could I hope to inform by it? Is any body, that had Com<g ref="char:EOLhyphen"/>mon Senſe or Learning before, made ever a-whit the wiſer for this? If I ſay, critically ſpeak<g ref="char:EOLhyphen"/>ing, that <hi>Virgil</hi> is a better Poet
+<pb n="15" facs="tcp:95739:9"/>than <hi>Martial,</hi> and <hi>Heroick Poe<g ref="char:EOLhyphen"/>try</hi> nobler than <hi>Anagram,</hi> I talk upon ſafe Grounds, and no Body can contradict me with<g ref="char:EOLhyphen"/>out palpably contradicting the Truth; but what then? When a Man will needs be an Author, eſpecially of <hi>Eſſays,</hi> it is expe<g ref="char:EOLhyphen"/>cted he ſhould produce <hi>ardens aliquid,</hi> ſomething new and en<g ref="char:EOLhyphen"/>tertaining: <hi>Montaign</hi> and St. <hi>Ev<g ref="char:EOLhyphen"/>remont</hi> are remarkable for it. There is yet another notable Piece of Criticiſm; and it is, That <hi>Tully</hi> was a better Poet than an Orator: This is true too, and I have nothing to ſay in anſwer to it. But to return with him from this digreſſion: The next thing he preſents us with, is a terrible Deſcription of the Modern Criticks; <hi>viz.
+<pb n="16" facs="tcp:95739:10"/>That they are biaſs'd by Partiality, and, in ſpite of all their ſpecious Pretences, a strong Tincture of ill Nature and Virulence unhappily ap<g ref="char:EOLhyphen"/>pears in every Line. They tell us indeed in their Prefaces, that they have dealt very handſomly and can<g ref="char:EOLhyphen"/>didly with the Authors they com<g ref="char:EOLhyphen"/>ment upon. But when we come to the Remarks themſelves, we are entertained with nothing but conti<g ref="char:EOLhyphen"/>nual Snarling and Inſolence.</hi> This will prove as true as the reſt of his Axioms and wiſe Sayings, if rightly applied, that is, to himſelf.</p>
+            <p>I have now run through the <hi>Eſsay,</hi> and ſhould next in or<g ref="char:EOLhyphen"/>der examine his <hi>Reflections</hi> on Mr. <hi>Wotton</hi> and Dr. <hi>Bentley;</hi> but I doubt he plays Booty with
+<pb n="17" facs="tcp:95739:10"/>them, eſpecially with the lat<g ref="char:EOLhyphen"/>ter; or, perhaps, I may be miſtaken, and this inviſible Hero, <hi>Almanzor</hi>-like, kills all before him; ſpares neither Friend nor Foe. Let the Caſe be how it will, I have no<g ref="char:EOLhyphen"/>thing to ſay to him upon their ſcore. What I have elſe to add, ſhall only be a Word or two in Anſwer to his Com<g ref="char:EOLhyphen"/>plements and Civilities to <hi>Chriſt-Church.</hi> And truly one would be apt to fancy he was never of any Univerſity himſelf, by his being ſo great a Stranger to the Reſpect that is due to the Learned Societies in them. His ill Breeding would make one ſuſpect too he had never been any where elſe neither, nor had had the Education
+<pb n="18" facs="tcp:95739:11"/>which young <hi>Squires</hi> uſually have.</p>
+            <p>In his firſt Attack upon the Colledge, he takes Dr. <hi>Bent<g ref="char:EOLhyphen"/>ley</hi>'s Method, and ſays perem<g ref="char:EOLhyphen"/>ptorily Mr. <hi>Boyle</hi>'s Name is fal<g ref="char:EOLhyphen"/>ſly ſet to the late Anſwer to the <hi>Diſſertation againſt</hi> Phalaris<hi>'s Epiſtle,</hi> &amp;c. and that he is ſure he had no hand at all in it. This he does out of pure Complaiſance to Mr. <hi>Boyle</hi> as a Gentleman, that there may be no Quarrel between them two; for he is reſolv'd to cut and ſlaſh the Book to Pieces, and without any more to do, ſays it is full of nothing but <hi>little Witticiſms and School-Boys Jeſts.</hi> He begs leave of his Reader (being a very Civil
+<pb n="19" facs="tcp:95739:11"/>Perſon) to ſuggeſt his own Opinion. And truly his Opi<g ref="char:EOLhyphen"/>nion is, that it was made <hi>(as moſt Compoſitions in thta Colledge are) by a Select Club: Every Man ſeems to have thrown in a Repartee, or ſo, in his Turn; and the moſt ingenenious Dr.</hi> Al<g ref="char:EOLhyphen"/>drich, <hi>no doubt, was at the Head of them, and ſmoked, and pun<g ref="char:EOLhyphen"/>ned plentifully on this Occaſion.</hi> A pretty Conceipt this! What a <hi>Dutch</hi> Image of Wit and Compoſition is here! There is juſt as much Wit and Sence, as Probability and good Man<g ref="char:EOLhyphen"/>ners in it. For when a Gen<g ref="char:EOLhyphen"/>tleman has affixed his Name to a Book, and owned it, ſhall any one that dares do neither, give him the Lie, and pretend Civility at the ſame time? It
+<pb n="20" facs="tcp:95739:12"/>was a Clowniſh bold Piece of Freedom at firſt in Dr. <hi>Bent<g ref="char:EOLhyphen"/>ley,</hi> and is now the ſame in this Ambuſcado-Writer. Such rude Treatment would have been abominable to any one of Mr. <hi>Boyle</hi>'s Quality, had he been a Man of no Note, had he never given any Proofs of his extraordinary Genius and great Learning to the World; and as the Caſe is quite other<g ref="char:EOLhyphen"/>wiſe, you and the Author muſt pardon me, if I ſay it is down<g ref="char:EOLhyphen"/>right impudent. But this is on<g ref="char:EOLhyphen"/>ly a Sample of ſome more Be<g ref="char:EOLhyphen"/>haviour of the ſame kind. He has plenty of ſuch Civilities in ſtore for the <hi>Dean</hi> and <hi>Students of Chriſt-Church,</hi> who he takes to be the true Authors of the Book. But he does not troulbe himſelf
+<pb n="21" facs="tcp:95739:12"/>to anſwer them in any thing ma<g ref="char:EOLhyphen"/>terial; but, without the leaſt Provocation, takes their man<g ref="char:EOLhyphen"/>ners moſt ſeverely to Task, puts a mark upon them, and aſſures his Friend, that <hi>they distinguiſh themſelves from the reſt of the Uni<g ref="char:EOLhyphen"/>verſity, not by their extraordinary Learning, but their abominable Ar<g ref="char:EOLhyphen"/>rogance.</hi> He wonders how they can have the Confidence to con<g ref="char:EOLhyphen"/>demn <hi>Pride</hi> in another, when they have ſo great a Share of it themſelves. He would very fain know, <hi>why it is not as excuſa<g ref="char:EOLhyphen"/>ble in Dr.</hi> Bentley, <hi>who is a scho<g ref="char:EOLhyphen"/>lar, as in ſome young Men, who cannot reaſonably be ſuppos'd to be ſo.</hi> He is very angry with the <hi>Dean,</hi> and admoniſhes him for encouraging this haughty proud Temper of theirs by his own Example; and
+<pb n="22" facs="tcp:95739:13"/>as a ſtrong Conviction that he does ſo, he calls a ſmall <hi>Compen<g ref="char:EOLhyphen"/>dium of Logick</hi> to witneſs, in which the Dean weas ſo unfortunate as to cenſure the Author of the <hi>Art of Thinking.</hi> I know not what Civilities <hi>T. R.</hi> Eſq; thinks are due to Foreigners; he is not ve<g ref="char:EOLhyphen"/>ry courtly, I am ſure, to his own Country-men. But farther; he ventures to affirm, that the <hi>Com<g ref="char:EOLhyphen"/>pendium of Logick</hi> is one of the worſt that he ever read. The reaſon is, becauſe it is written in <hi>good Latin.</hi> A moſt unpardo<g ref="char:EOLhyphen"/>nable Fault indeed! Well, but this is not all: He has ſomething more to quarrel with them a<g ref="char:EOLhyphen"/>bout, and that is for calling Dr. <hi>Bentley</hi> Pedant, when he can prove them to be as rank Pedants themſelves. For (ſays he) <hi>I take
+<pb n="23" facs="tcp:95739:13"/>it to be as errant a Sign of Pedantry to publiſh bad Editions of old Au<g ref="char:EOLhyphen"/>thors, and to be highly ſolicitous about the various Readings of them, which former Editions have only neglected, becauſe they were inſignificant as to lard</hi> Engliſh <hi>Writings with</hi> Greek <hi>and</hi> Latin. He is very much in the Right of it; but what is this to <hi>Chriſt-Church?</hi> Yes; it is di<g ref="char:EOLhyphen"/>rectly levelled at it. <hi>For</hi> (he continues) <hi>Dr.</hi> Aldrich <hi>is pretty no<g ref="char:EOLhyphen"/>torious at preſent for imploying his young unexperienced Students this way.</hi> I know not what he means <hi>by employing his young unexperienced Stu<g ref="char:EOLhyphen"/>dents:</hi> But I know, and, under his Favour, it may be ſaid with<g ref="char:EOLhyphen"/>out any Partiality at all, that thoſe Books which have been put forth by this Colledge, both in the late learned Dr. <hi>Fell</hi>'s time, and
+<pb n="24" facs="tcp:95739:14"/>the preſent <hi>Dean</hi>'s too, have a very good Reputation, not only here at home, but are likewiſe much approved by Foreigners a<g ref="char:EOLhyphen"/>broad; which, I hope, will re<g ref="char:EOLhyphen"/>commend them to Dr. <hi>Bentley</hi>'s Eſteem, whatever it may do to this Gentleman's. As for the late Edition of <hi>Aeſop</hi>'s <hi>Fables;</hi> it will be time enough to defend it, when it is accuſed. Here the <hi>Preface</hi> is only concerned, for calling Dr. <hi>Bentley</hi> plain <hi>quidam.</hi> He would, I ſuppoſe, have had his Name uſhered in with half a dozen Epithets of reſpect; not conſidering how ſcurvily he is uſing Dr. <hi>Bentley</hi>'s Betters all this while. But the next Charge bears hard upon them: For it is about no leſs than <hi>two Epigrams</hi> and one <hi>Verſe,</hi> in a Poem, intitu<g ref="char:EOLhyphen"/>led,
+<pb n="25" facs="tcp:95739:14"/>
+               <hi>Articuli Pacis,</hi> whch he has found in a Book lately publiſhed, called, <hi>Examen Poeticum duplex,</hi> &amp;c. He is very ſolicitous (it being a Matter of vaſt Conſe<g ref="char:EOLhyphen"/>quence) to diſcover the Author of them; and at laſt ventures to affirm, that either the <hi>Dean</hi> him<g ref="char:EOLhyphen"/>ſelf, or ſome body elſe made them. The Conjecture is not much unlike that of the <hi>Dutch Commentators</hi> about <hi>Horace</hi>'s Mo<g ref="char:EOLhyphen"/>ther, who, after all their En<g ref="char:EOLhyphen"/>quiry, could not be poſitive who ſhe was, but they unanimouſly agreed that he certainly had one. This being ſagely premiſed; he proceeds to give Dr. <hi>Bentley</hi> ſome Comfort, and to infuſe a Balm into the Wound, the Sting and Venom in the Tale of theſe wicked <hi>Epigrams</hi> might poſſibly
+<pb n="26" facs="tcp:95739:15"/>have made in his Mind, aſſuring him <hi>en Critique,</hi> that theſe are by no means the beſt Copies in that Collection. As to this; if there was any need of an Apology (which I do not apprehend there is) it might be alledged as a good one, that <hi>that Collection</hi> was made privately by ſome Gentle<g ref="char:EOLhyphen"/>men, that did not think fit to own themſelves, and the <hi>Poems</hi> ſpoken of were inſerted without the Author's Leave or Know<g ref="char:EOLhyphen"/>ledge; and therefore they are not ſtrictly obliged to account for them. But this is not very much to the Point in hand, and I ſhall wave it.</p>
+            <p>Here our Critick had juſt en<g ref="char:EOLhyphen"/>ded his Reflections, but that ſomething came into his Head,
+<pb n="27" facs="tcp:95739:15"/>that was once ſaid by one <hi>Jo<g ref="char:EOLhyphen"/>annes in Nudibus,</hi> which he could not let go unanſwered. The Words are; <hi>If the Doctor had had either good Sence or good Manners, he would not have fallen ſo haſtily upon a learned Body, that was ſo ve<g ref="char:EOLhyphen"/>ry able to juſtifie it ſelf, and to con<g ref="char:EOLhyphen"/>found him. It was the moſt likely way to make a Shipwreck of the little Reputation he had got.</hi> But even as he has mangled and qua<g ref="char:EOLhyphen"/>lified this Objection, he has not taken it off ſo clearly as he ima<g ref="char:EOLhyphen"/>gines he has done. He would not have had the <hi>Doctor</hi> begun this Diſpute, becauſe the Col<g ref="char:EOLhyphen"/>ledge was below ſo great a Man's Reſentments. And he now ad<g ref="char:EOLhyphen"/>viſes him not to anſwer any Part of Mr. <hi>Boyle</hi>'s Book, <hi>becauſe, that which is abuſive is ſo blunt and ungen<g ref="char:EOLhyphen"/>teel,
+<pb n="28" facs="tcp:95739:16"/>that it cannot affect his Reputa<g ref="char:EOLhyphen"/>tion at all; and the Authorities in the other are ſo falſly cited and miſappli<g ref="char:EOLhyphen"/>ed, that they anſwer themſelves.</hi> For many Reaſons of the ſame Na<g ref="char:EOLhyphen"/>ture, I would not have given you ſo much trouble about this Pamphlet, had not you obliged me to it; and if you find my Stile rugged and unpleaſant (as I doubt you will) you muſt blame you ſelf, and excuſe,</p>
+            <closer>
+               <dateline>
+                  <hi>Oxon,</hi> 
+                  <date>
+                     <hi>Aug. 6th</hi> 1698.</date>
+               </dateline>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95739:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
